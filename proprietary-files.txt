@@ -839,6 +839,9 @@ vendor/lib64/vendor.qti.hardware.vpp@1.3.so|f41500bd64308e0df2e0cb2cfc932b69bae2
 vendor/bin/cnss-daemon
 vendor/etc/wifi/aoa_cldb_falcon.bin
 vendor/etc/wifi/aoa_cldb_swl14.bin
+vendor/lib/libdiagjni.so
+vendor/lib64/libcert_parse.wpa_s.so
+vendor/lib64/libcheckpid.so
 
 # WiFi Display - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 -framework/WfdCommon.jar|9f431b56d7f38c71089333008695dd5f717e5034
