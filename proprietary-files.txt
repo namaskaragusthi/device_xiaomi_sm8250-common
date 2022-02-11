@@ -836,12 +836,12 @@ vendor/lib64/vendor.qti.hardware.vpp@1.2.so|7f4e9e8097cb421bc20881910a77e540d9ef
 vendor/lib64/vendor.qti.hardware.vpp@1.3.so|f41500bd64308e0df2e0cb2cfc932b69bae2c81c
 
 # WiFi
-vendor/bin/cnss-daemon
-vendor/etc/wifi/aoa_cldb_falcon.bin
-vendor/etc/wifi/aoa_cldb_swl14.bin
-vendor/lib/libdiagjni.so
-vendor/lib64/libcert_parse.wpa_s.so
-vendor/lib64/libcheckpid.so
+vendor/bin/cnss-daemon|92a5355a17f20517425cd0688a888654c7075d2b
+vendor/etc/wifi/aoa_cldb_falcon.bin|7511e868c40e66e9758568b7112894cbce2650a4
+vendor/etc/wifi/aoa_cldb_swl14.bin|2a3be07a8f24bc1b9798d07c7133b0f71b77738f
+vendor/lib/libdiagjni.so|5b3d29ec2c907277b4917e2b3b2e3301f3329810
+vendor/lib64/libcert_parse.wpa_s.so|83e289f6e654155ecddeee5f6ea1e42f6dc32175
+vendor/lib64/libcheckpid.so|3b99f38ec9faecb6bbc2abaa0408af95c32bf73
 
 # WiFi Display - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 -framework/WfdCommon.jar|9f431b56d7f38c71089333008695dd5f717e5034
