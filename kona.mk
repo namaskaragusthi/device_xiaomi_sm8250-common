@@ -145,7 +145,8 @@ PRODUCT_PACKAGES += \
     libsndmonitor \
     libspkrprot \
     libvisualizer \
-    libvolumelistener
+    libvolumelistener \
+    sound_trigger.primary.kona:32
 
 # Dolby
 PRODUCT_PROPERTY_OVERRIDES += \
