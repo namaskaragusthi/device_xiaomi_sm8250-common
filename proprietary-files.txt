@@ -823,6 +823,11 @@ vendor/bin/time_daemon|5ac6b1af3c41eecad1e522df8e272db5fab86523
 vendor/etc/init/init.time_daemon.rc|b253ca2a498757e14e1d7a051bf504ae09218f51
 vendor/lib64/libtime_genoff.so|17547993adc4fb9cb1cdc1abbd765f4ef9a05f09
 
+# Touchfeature
+vendor/bin/hw/vendor.xiaomi.hardware.touchfeature@1.0-service
+vendor/etc/init/vendor.xiaomi.hardware.touchfeature@1.0-service.rc
+vendor/lib64/hw/vendor.xiaomi.hardware.touchfeature@1.0-impl.so
+
 # Trusted Execution Environment connector - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
 vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service|89a3b983d76f62cf84e1c9bfa7da4721e4aa2ce7
 vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc|c966350ee67d3a7c73ca7184e3725264025d16f5

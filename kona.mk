@@ -489,6 +489,10 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/xiaomi \
     hardware/qcom-caf/wlan
 
+# Touchfeature
+PRODUCT_PACKAGES += \
+    vendor.xiaomi.hardware.touchfeature@1.0.vendor
+
 # Telephony
 PRODUCT_PACKAGES += \
     ims-ext-common \
