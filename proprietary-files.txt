@@ -886,7 +886,6 @@ vendor/lib64/libcert_parse.wpa_s.so|83e289f6e654155ecddeee5f6ea1e42f6dc32175
 vendor/lib64/libcheckpid.so|3b99f38ec9faecb6bbc2abaa0408af95c32bf73
 
 # WiFi Display - from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
--framework/WfdCommon.jar|9f431b56d7f38c71089333008695dd5f717e5034
 system_ext/bin/wfdservice|2d9bde189325b3faf4e1571543867c6a7e00762d
 system_ext/etc/init/wfdservice.rc|907def8565d8f91f531ca7dfad880af05d540b0c
 system_ext/etc/permissions/wfd-system-ext-privapp-permissions-qti.xml|828999946f9dfef98f17f42a1c8daba47c2c442d
